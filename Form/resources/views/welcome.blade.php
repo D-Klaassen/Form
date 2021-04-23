@@ -456,20 +456,5 @@
     {{ Form::close() }}
 </div>
 
-
-{{--    {{ Form::open(array('form' => 'foo/bar')) }}--}}
-
-{{--    <?php--}}
-
-{{--    echo Form::open(array('form' => 'foo/bar'))--}}
-
-
-{{--    ?>--}}
-
-
-
-{{--    {{ Form::close() }}--}}
-
-
 </body>
 </html>

@@ -19,5 +19,3 @@ Route::post('/form', 'FormController@store')->name('form');
 
 Route::post('/form/sendForm', 'SendEmailController@send');
 
-
-
